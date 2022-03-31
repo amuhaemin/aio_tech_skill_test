@@ -19,7 +19,7 @@ function tonaseCalc(input) {
   }
 }
 
-// No.2
+// No.2 -- unfinished
 
 function hitungKarton(productCode, amount) {
   //contoh untuk memudahkan, bisa jadi isi arrProdObj lebih dari 1
